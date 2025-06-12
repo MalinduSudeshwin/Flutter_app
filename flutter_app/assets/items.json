@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Apple",
+    "description": "A sweet red fruit."
+  },
+  {
+    "id": 2,
+    "title": "Banana",
+    "description": "A long yellow fruit."
+  },
+  {
+    "id": 3,
+    "title": "Orange",
+    "description": "A juicy citrus fruit."
+  }
+]
